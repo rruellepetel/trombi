@@ -1,10 +1,10 @@
-body{
+body {
     width: 1200px;
 }
-header{
+header {
     text-align: center;
 }
-h1.ligne{
+h1.ligne {
     text-decoration: underline;
     text-decoration-style:double;
     background-color: purple;
@@ -14,23 +14,23 @@ h1.ligne{
     margin-left: 11em;
     margin-right: 11em;
 }
-ul li{
+ul li {
     list-style: none;
     float: left;
     width: 20%;
     text-align: center;
 }
-ul.col5 li{
+ul.col5 li {
     float: left;
     width: 20%;
     text-align: center;
 }
-ul.col3 li{
+ul.col3 li {
     float: left;
     width: 33%;
     text-align: center;
 }
-ul.col2 li{
+ul.col2 li {
     float: left;
     width: 50%;
     text-align:center;

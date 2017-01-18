@@ -13,3 +13,12 @@ col3Link.addEventListener('click',function(){
 col2Link.addEventListener('click',function(){
     trombiElement.className = "col2";
 });
+var showplop = document.getElementById('eleve1')
+showplop.addEventListener ('mouseenter',function(){
+    showplop.style.width = "200px"
+    showplop.style.height = "200px"
+});
+showplop.addEventListener ('mouseleave',function(){
+    showplop.style.width = "100px"
+    showplop.style.height = "100px"
+});
